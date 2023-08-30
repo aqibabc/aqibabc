@@ -56,7 +56,7 @@
 </p>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/aqibzahid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ijjazahmad705@gmail.com"><img src="https://img.shields.io/badge/aqibzahid-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:aqibkhanpuriya@gmail.com"><img src="https://img.shields.io/badge/aqibzahid-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-@aqibzahid-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/aqibzahid-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/aqibzahid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
