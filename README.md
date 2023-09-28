@@ -9,7 +9,6 @@
 
 ✨ Favorite Tech: js, React, Nextjs
 
-📓 I’m currently learning TypeScript and Genrative AI... 😭
 
 📧 aqibkhanpuriya@gmail.com
 
