@@ -26,6 +26,12 @@
  <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
+ <td align='center'>
+        <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"  width="80">
+    </td>
+ <td align='center'>
+        <img src="https://img.freepik.com/premium-vector/alphabet-text-symbol-flat-icon-b-letter-with-long-shadow-sign-template_754537-6037.jpg"  width="80">
+    </td>
  
  
     
