@@ -92,7 +92,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/aqibzahid/" ><img src="https://img.shields.io/badge/AQIB ZAHID-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:aqibkhanpuriya@gmail.com" ><img src="https://img.shields.io/badge/AQIB ZAHID-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/AqibZahid/"><img src="https://img.shields.io/badge/AQIB ZAHID-00B2FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/people/Aqib-Zahid/pfbid032XAnHXeYsWrqR2oCQsNipLZd9Td99FrsV2WPzti7sZem83Wpf7teSdRtU1jNB9P4l/"><img src="https://img.shields.io/badge/AQIB ZAHID-00B2FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
  </p>
  
 <br>
