@@ -36,13 +36,13 @@
         <img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/256/nextjs-icon.png" width="50">
     </td>
     <td align='center' width="100">
-        <img src="https://img.freepik.com/premium-psd/api-setting-3d-icon_136651-1168.jpg" width="50">
+        <img src="https://static.vecteezy.com/system/resources/previews/041/639/046/non_2x/api-3d-illustration-icon-png.png" width="50">
     </td>
     <td align='center' width="100">
         <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-2950150-2447911.png?f=webp" width="50">
     </td>
     <td align='center' width="100">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsPCoV08UXunOoFFsE5_YckwIYJWcx6bXa-w&s" width="150">
+        <img src="https://img.freepik.com/free-vector/technology-devices-illustration_24877-61196.jpg?ga=GA1.1.96868378.1733982328&semt=ais_hybrid" width="150">
     </td>
     <td align='center' width="100">
         <img src="https://github.com/IjjazAhmad/IjjazAhmad/assets/102515357/c00cc058-90fe-4246-8b87-2ee564ac2f89" width="50">
@@ -66,7 +66,7 @@
         <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-9294852-7577995.png?f=webp" width="50">
     </td>
     <td align='center' width="100">
-        <img src="https://uploads-ssl.webflow.com/602a49b4c90708f6641a192e/62aaec4339a8f3b14347736a_123_ant-design.259fccdbe1.png" width="50">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgNeKzULLpPYjiim1xGyb7jjKc06iQlMxaw&s" width="50">
     </td>
     <td align='center' width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50">
@@ -90,11 +90,9 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/ijjazahmad/" ><img src="https://img.shields.io/badge/ijjazahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ijjazahmad705@gmail.com" ><img src="https://img.shields.io/badge/ijjazahmad-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ch_ijjazahmad"><img src="https://img.shields.io/badge/-@ijjazahmad-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/ijjaz.ahmad.7902/"><img src="https://img.shields.io/badge/ijjazahmad-00B2FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://twitter.com/ijjaz_ahmad"><img src="https://img.shields.io/badge/ijjazahmad-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aqibzahid/" ><img src="https://img.shields.io/badge/AQIB ZAHID-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:aqibkhanpuriya@gmail.com" ><img src="https://img.shields.io/badge/AQIB ZAHID-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/AqibZahid/"><img src="https://img.shields.io/badge/AQIB ZAHID-00B2FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
  </p>
  
 <br>
