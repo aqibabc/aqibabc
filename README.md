@@ -12,7 +12,7 @@
 
 📧 aqibkhanpuriya@gmail.com
 
-📷 Facebook: www.facebook.com/profile.php?id=100091081942687
+📷 Facebook: <a href="https://www.facebook.com/people/Aqib-Zahid/pfbid032XAnHXeYsWrqR2oCQsNipLZd9Td99FrsV2WPzti7sZem83Wpf7teSdRtU1jNB9P4l/">www.facebook.com/aqibzahid</a>
 
 💼 LinkedIn: www.linkedin.com/in/aqibzahid 
  
