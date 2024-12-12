@@ -12,7 +12,7 @@
 
 📧 aqibkhanpuriya@gmail.com
 
-🎨 Portfolio:
+🎨 Portfolio: www.facebook.com/profile.php?id=100091081942687
 
 💼 LinkedIn: www.linkedin.com/in/aqibzahid 
  
@@ -20,43 +20,78 @@
 
 <table width="100">
 <tr>
- <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
+  <td align='center' width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="50">
     </td>
- <td align='center'>
-        <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"  width="80">
+ <td align='center' width="100">
+        <img src="https://icons.iconarchive.com/icons/ampeross/qetto/256/css-icon.png" width="50">
     </td>
- <td align='center'>
-        <img src="https://img.freepik.com/premium-vector/alphabet-text-symbol-flat-icon-b-letter-with-long-shadow-sign-template_754537-6037.jpg"  width="80">
+<td align='center' width="100">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="50">
+    </td>
+ <td align='center' width="100">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="50">
+    </td>
+    <td align='center' width="100">
+        <img src="https://icons.iconarchive.com/icons/arturo-wibawa/akar/256/nextjs-icon.png" width="50">
+    </td>
+    <td align='center' width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50">
+    </td>
+    <td align='center' width="100">
+        <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" width="50">
+    </td>
+    <td align='center' width="100">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsPCoV08UXunOoFFsE5_YckwIYJWcx6bXa-w&s" width="150">
+    </td>
+    <td align='center' width="100">
+        <img src="https://github.com/IjjazAhmad/IjjazAhmad/assets/102515357/c00cc058-90fe-4246-8b87-2ee564ac2f89" width="50">
+    </td>
+    <td align='center' width="100">
+        <img src="https://firebase.google.com/images/lockup.svg" width="100">
     </td>
  
- 
-    
- <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
-    </td>
 </tr>
- 
 <tr>
-    <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    <td align='center' width="100">
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-2950150-2447911.png?f=webp" width="50">
     </td>
-    <td align='center' width="200">
-        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
+    <td align='center' width="100">
+        <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="50">
     </td>
-    <td align='center'>
-        <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"  width="80">
+    <td align='center' width="100">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-sass-13-1175092.png"  width="50">
     </td>
-   
+    <td align='center' width="100">
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-9294852-7577995.png?f=webp" width="50">
+    </td>
+    <td align='center' width="100">
+        <img src="https://uploads-ssl.webflow.com/602a49b4c90708f6641a192e/62aaec4339a8f3b14347736a_123_ant-design.259fccdbe1.png" width="50">
+    </td>
+    <td align='center' width="100">
+        <img src="https://img.freepik.com/premium-psd/api-setting-3d-icon_136651-1168.jpg" width="50">
+    </td>
+    <td align='center' width="100">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-yZJb0qg2Adf0RP5FeN5N5o7wmJDircWo5g&s" width="150">
+    </td>
+    <td align='center' width="100">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3628992-3030217.png"  width="50">
+    </td>
+   <td align='center' width="100">
+        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="50">
+    </td>
+
 </tr>
 
     
 </table>
 </p>
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/aqibzahid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:aqibkhanpuriya@gmail.com"><img src="https://img.shields.io/badge/aqibzahid-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/ijjazahmad/" ><img src="https://img.shields.io/badge/ijjazahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ijjazahmad705@gmail.com" ><img src="https://img.shields.io/badge/ijjazahmad-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/ch_ijjazahmad"><img src="https://img.shields.io/badge/-@ijjazahmad-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/ijjaz.ahmad.7902/"><img src="https://img.shields.io/badge/ijjazahmad-00B2FF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://twitter.com/ijjaz_ahmad"><img src="https://img.shields.io/badge/ijjazahmad-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  </p>
  
 <br>
