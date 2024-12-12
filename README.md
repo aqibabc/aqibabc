@@ -3,9 +3,9 @@
     <h1> Hi there, I'm Aqib Zahid👋</h1>
   </div>
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
-💸 NEW SELLER of Mern Stack Developer on Fiverr
+💸 NEW SELLER of Frontend Developer on Kalbosoft
 
 ✨ Favorite Tech: js, React, Nextjs
 
@@ -14,9 +14,7 @@
 
 🎨 Portfolio:
 
-💼 LinkedIn: www.linkedin.com/in/aqibzahid
-
-📷 Instagram : 
+💼 LinkedIn: www.linkedin.com/in/aqibzahid 
  
 <h2>Tech Stack</h2>
 
