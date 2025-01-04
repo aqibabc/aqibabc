@@ -15,6 +15,8 @@
 📷 Facebook: <a href="https://www.facebook.com/people/Aqib-Zahid/pfbid032XAnHXeYsWrqR2oCQsNipLZd9Td99FrsV2WPzti7sZem83Wpf7teSdRtU1jNB9P4l/">www.facebook.com/aqibzahid</a>
 
 💼 LinkedIn: www.linkedin.com/in/aqibzahid 
+
+📷 Twitter: <a href="https://x.com/AqibZahid42234">aqibzahid/Twitter</a>
  
 <h2>Tech Stack</h2>
 
